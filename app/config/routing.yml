@@ -1,0 +1,5 @@
+chaton:
+    resource: "@ChatonBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
